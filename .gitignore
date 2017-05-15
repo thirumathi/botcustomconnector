@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/BotConnectorTestApp/bin
+/BotConnectorTestApp/obj
+/BotCustomConnectorSvc/bin
+/BotCustomConnectorSvc/obj
+/HelloWorldBot/bin
+/HelloWorldBot/obj
+/BotCustomConnectorSvc/Areas/HelpPage
